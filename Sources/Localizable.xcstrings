@@ -25,6 +25,18 @@
     "Could not install the bridge.": {
       "extractionState": "manual"
     },
+    "Average generation speed": {
+      "extractionState": "manual"
+    },
+    "Active requests": {
+      "extractionState": "manual"
+    },
+    "Queued requests": {
+      "extractionState": "manual"
+    },
+    "Generation speed, requests and token totals": {
+      "extractionState": "manual"
+    },
     "%@ · %@": {
       "extractionState": "manual",
       "localizations": {
